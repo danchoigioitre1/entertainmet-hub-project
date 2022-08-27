@@ -115,7 +115,7 @@ export default function ContentModal({ children, media_type, id }) {
                               
                               color='secondary'
                               target="_blank"
-                              href={`https://www.youtube.com/watch?=${video}`}
+                              href={`https://www.youtube.com/watch?v=${video}`}
                               >
                                 Watch the Trailer
                               </Button>

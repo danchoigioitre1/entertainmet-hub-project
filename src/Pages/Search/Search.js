@@ -49,7 +49,7 @@ const Search = () => {
           
        
         } catch (error) {
-            console.error(1)
+            console.error(error)
         }
 
 
